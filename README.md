@@ -51,3 +51,6 @@ So far, I have completed all Parts up to Day 10 (the current day), with the only
 - [Day 10](/day10): TypeScript
     - [Part 1](/day10/part1.ts) ⭐
     - [Part 2](/day10/part2.ts) ⭐
+- [Day 10](/day11): PHP
+    - [Part 1](/day11/part1.php) ⭐
+    - [Part 2](/day11/part2.php) ⭐
