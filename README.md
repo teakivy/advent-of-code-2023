@@ -54,3 +54,6 @@ So far, I have completed all Parts up to Day 10 (the current day), with the only
 - [Day 11](/day11): PHP
     - [Part 1](/day11/part1.php) ⭐
     - [Part 2](/day11/part2.php) ⭐
+- [Day 12](/day12): Python
+    - [Part 1](/day12/part1.py) ⭐
+    - [Part 2](/day12/part2.py) ⭐
