@@ -60,3 +60,9 @@ So far, I have completed all Parts up to Day 10 (the current day), with the only
 - [Day 13](/day13): Rust
     - [Part 1](/day13/part1.rs) ⭐
     - [Part 2](/day13/part2.rs) ⭐
+- [Day 14](/day14): Elixir
+    - [Part 1](/day14/part1.exs) ⚫
+    - [Part 2](/day14/part2.exs) ⚫
+- [Day 15](/day15): Java
+    - [Part 1](/day15/part1.java) ⭐
+    - [Part 2](/day15/part2.java) ⭐
