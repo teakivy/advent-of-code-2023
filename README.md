@@ -57,3 +57,6 @@ So far, I have completed all Parts up to Day 10 (the current day), with the only
 - [Day 12](/day12): Python
     - [Part 1](/day12/part1.py) ⭐
     - [Part 2](/day12/part2.py) ⭐
+- [Day 13](/day13): Rust
+    - [Part 1](/day13/part1.rs) ⭐
+    - [Part 2](/day13/part2.rs) ⭐
