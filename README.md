@@ -19,7 +19,7 @@ Inspired by [Low Level Learning](https://www.youtube.com/@LowLevelLearning) on Y
 ## Status
 The last (and first) time I did Advent of Code was in 2021, where I earned 12 total stars. This year, even with an added challenge, I am aiming for all 50.
 
-So far, I have completed almost Parts up to Day 15 (the current day), excluding day 14 due to time constraints, with the only assistance being on Day 5 Part 2, in which I used [@NodeNebula](https://github.com/NodeNebula/)'s solution until I have time to finish my own.
+So far, I have completed all Parts up to Day 16 (the current day), with the only assistance being on Day 5 Part 2, in which I used [@NodeNebula](https://github.com/NodeNebula/)'s solution until I have time to finish my own, and Day 14 Part 2.
 
 - [Day 1](/day1): Java
     - [Part 1](/day1/Part1.java) ⭐
@@ -60,9 +60,9 @@ So far, I have completed almost Parts up to Day 15 (the current day), excluding 
 - [Day 13](/day13): Rust
     - [Part 1](/day13/part1.rs) ⭐
     - [Part 2](/day13/part2.rs) ⭐
-- [Day 14](/day14): Elixir
-    - [Part 1](/day14/part1.exs) ⚫
-    - [Part 2](/day14/part2.exs) ⚫
+- [Day 14](/day14): Python
+    - [Part 1](/day14/part1.py) ⭐
+    - [Part 2](/day14/part2.py) ⭐
 - [Day 15](/day15): Java
     - [Part 1](/day15/part1.java) ⭐
     - [Part 2](/day15/part2.java) ⭐
