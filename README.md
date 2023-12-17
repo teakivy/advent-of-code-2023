@@ -66,3 +66,6 @@ So far, I have completed almost Parts up to Day 15 (the current day), excluding 
 - [Day 15](/day15): Java
     - [Part 1](/day15/part1.java) ⭐
     - [Part 2](/day15/part2.java) ⭐
+- [Day 16](/day16): C++
+    - [Part 1](/day16/part1.java) ⭐
+    - [Part 2](/day16/part2.java) ⭐
