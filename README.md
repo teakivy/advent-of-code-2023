@@ -75,3 +75,6 @@ So far, I have completed all Parts up to Day 16 (the current day), with the only
 - [Day 18](/day18): PHP
     - [Part 1](/day18/part1.php) ⭐
     - [Part 2](/day18/part2.php) ⭐
+- [Day 19](/day19): Python
+    - [Part 1](/day19/part1.py) ⭐
+    - [Part 2](/day19/part2.py) ⭐
