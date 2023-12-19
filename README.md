@@ -69,3 +69,9 @@ So far, I have completed all Parts up to Day 16 (the current day), with the only
 - [Day 16](/day16): C++
     - [Part 1](/day16/part1.java) ⭐
     - [Part 2](/day16/part2.java) ⭐
+- [Day 17](/day17): TypeScript
+    - [Part 1](/day17/part1.ts) ⚫
+    - [Part 2](/day17/part2.ts) ⚫
+- [Day 18](/day18): PHP
+    - [Part 1](/day18/part1.php) ⭐
+    - [Part 2](/day18/part2.php) ⭐
