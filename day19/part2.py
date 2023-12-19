@@ -39,12 +39,6 @@ def get_workflow(name):
             return workflow
     return None
 
-def get_rating(record, category):
-    for rating in record:
-        if rating["category"] == category:
-            return rating["value"]
-    return None
-
 queue = [{"x": [1, 4000], "m": [1, 4000], "a": [1, 4000], "s": [1, 4000], "workflow": "in", "rule": 0}]
 sum = 0
 
